@@ -1,0 +1,19 @@
+.player-img{
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    text-align: center;
+}
+.player-card{
+    border: 1px solid lightgray;
+    width: 230px;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 4px;
+    float: left;
+    text-align: center;
+}
+h6{
+    color: gray;
+    font-weight: 500;
+}
